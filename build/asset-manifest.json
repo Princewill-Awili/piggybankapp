@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91c91837.css",
+    "main.js": "/static/js/main.3e920824.js",
+    "static/media/ngn.png": "/static/media/ngn.9eb00297aee6d6ae4600.png",
+    "static/media/doodle1white.png": "/static/media/doodle1white.88c709dcdb72eecc086f.png",
+    "static/media/doodle1black.png": "/static/media/doodle1black.14eec36f94400ea81fc7.png",
+    "index.html": "/index.html",
+    "main.91c91837.css.map": "/static/css/main.91c91837.css.map",
+    "main.3e920824.js.map": "/static/js/main.3e920824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c91837.css",
+    "static/js/main.3e920824.js"
+  ]
+}
